@@ -1,4 +1,4 @@
-[Five of a kind](https://github.com/5-of-a-kind/5-of-a-kind.github.io/blob/master/Facebook%20Banner.png)
+![Five of a kind](https://github.com/5-of-a-kind/5-of-a-kind.github.io/blob/master/Facebook%20Banner.png)
 
 Welcome to the 5 of a kind web page for the 2020 UCLan Computing Challenge this is where we'll be uploading some of the things we are doing
 
