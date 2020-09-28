@@ -1,6 +1,6 @@
 ## 5 of a kind
 
-You can use the [editor on GitHub](https://github.com/5-of-a-kind/5-of-a-kind.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the 5 of a kind web page for the 2020 UCLan Computing Challenge this is where we'll be uploading some of the things we are doing
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
