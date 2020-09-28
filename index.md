@@ -4,6 +4,6 @@ Welcome to the 5 of a kind web page for the 2020 UCLan Computing Challenge this 
 
 
 Follow us on our Social Media: <br/>
-[<img scr ="f_logo_RBG-Hex-Blue_512.png">](https://www.facebook.com/fiveofakindltd) <br/>  <img scr="Twitter_Logo_Blue.png">(https://twitter.com/5ofaKindLTD1)
+[<img scr ="f_logo_RBG-Hex-Blue_512.png">](https://www.facebook.com/fiveofakindltd) <br/>  [<img scr="Twitter_Logo_Blue.png">](https://twitter.com/5ofaKindLTD1)
 
 ###### Created by Joe Richards
