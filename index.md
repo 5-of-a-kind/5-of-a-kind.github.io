@@ -5,8 +5,7 @@ Welcome to the 5 of a kind web page for the 2020 UCLan Computing Challenge this 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 Follow us on our Social Media:
--[Facebook:](https://www.facebook.com/fiveofakindltd)
--[Twitter:](https://twitter.com/5ofaKindLTD1)
+[Facebook:](https://www.facebook.com/fiveofakindltd)  [Twitter:](https://twitter.com/5ofaKindLTD1)
 
 ### Jekyll Themes
 
