@@ -1,8 +1,8 @@
 
 <img src="Facebook%20Banner.png"/><br/>
-<a href="about"><img src="Homepage.png" height = "75" width="125"></a> <a href="team">Meet the team<a/>
+<a href="about"><img src="Homepage.png" height = "60" width="125"></a> <a href="team">Meet the team<a/>
 
-Welcome to the 5 of a kind web page for the 2020 UCLan Computing Challenge this is where we'll be uploading some of the things we are doing <br/>
+Welcome to the 5 of a kind web page for the 2020 UCLan Computing Challenge this is where we'll be uploading some of the things we are doing. <br/>
 
 ### Download the latest versions of our app by scanning the QR link here:
 <p align="center">
