@@ -9,5 +9,5 @@ Welcome to the 5 of a kind web page for the 2020 UCLan Computing Challenge this 
 
 Follow us on our Social Media: <br/>
 [<img src="f_logo_RGB-Hex-Blue_512.png" height="40" width="40"/>](https://www.facebook.com/fiveofakindltd)
-[<img src="Twitter_Logo_Blue.png" height="40" width="40"/>](https://twitter.com/5ofaKindLTD1)
+[<img src="Twitter_Logo_Blue.png" height="40" width="40"/>](https://twitter.com/5OFAKIND1)
 ###### Created by Joe Richards
