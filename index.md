@@ -1,6 +1,3 @@
-title: Home Page
-layout: template
-filename: homepage.md
 
 <img src="Facebook%20Banner.png"/><br/>
 <a href="about">about</a> <a href="team">meet the team<a/>
