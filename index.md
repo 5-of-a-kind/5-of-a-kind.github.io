@@ -3,7 +3,7 @@ layout: template
 filename: homepage.md
 
 <img src="Facebook%20Banner.png"/><br/>
-<a href="about">about</a>
+<a href="about">about</a> <a href="team">meet the team<a/>
 
 Welcome to the 5 of a kind web page for the 2020 UCLan Computing Challenge this is where we'll be uploading some of the things we are doing <br/>
 
