@@ -1,3 +1,3 @@
-### Meet the team
+## Meet the team
 <br/>
-#### Joe Richards
+### Joe Richards
