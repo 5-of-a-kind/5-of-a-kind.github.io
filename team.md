@@ -2,7 +2,6 @@
 <img src="Facebook%20Banner.png"/><br/>
 
 <a href="index"><img src="Homepage.png" height = "60" width="175"></a>
-<br/>
 
 ### Joe Richards
 <img  height = "250" widith ="250" src="5ofaKind Joe.jpg"><br/>
