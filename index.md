@@ -1,4 +1,4 @@
-##Home
+## Home
 <img src="Facebook%20Banner.png"/><br/>
 <a href="team"><img src="meet the team.png" height = "60" width="175"><a/>
 
