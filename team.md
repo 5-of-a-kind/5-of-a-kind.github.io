@@ -3,6 +3,4 @@
 
 ### Joe Richards
 Hi I am Joe Richards 20 years old and am studying Computer Science at UCLan.
-<p align="center">
-<img  height = "500" widith ="500" src="5ofaKind Joe.jpg">
-</p> <br/>
+<img  height = "250" widith ="250" src="5ofaKind Joe.jpg">
